@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-   "homepage": "https://aswathi-ezhumalai.github.io/login page",
+   "homepage": "https://aswathi-ezhumalai.github.io/login-page",
 
   "scripts": {
     "dev": "vite",
