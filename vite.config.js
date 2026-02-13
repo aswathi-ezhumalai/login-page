@@ -10,5 +10,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: '/login page/',
+  base: '/login-page/',
 })
